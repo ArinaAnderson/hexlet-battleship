@@ -1,6 +1,6 @@
 # hexlet-battleship
 ## My first attempt to solve a task by using Functional Programming
-(_I can't believe I did it using only immutable varibales_:scream_cat:)
+(_I can't believe I did it using only immutable variables_:scream_cat:)
 
 ### Two functions (a task from Hexlet):
 * Calculate ships: **calcShipsCount**
