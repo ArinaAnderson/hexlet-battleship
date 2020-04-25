@@ -5,7 +5,9 @@
 * Calculate ships: **calcShipsCount**
 * Validate a field: **isValidateField**
 
-### How to use:
+### How to use: open console in developert tools and try it! (cat)
+
+### Examples:
     calcShipsCount([
       [0, 1, 0, 0, 0, 0],
       [0, 1, 0, 0, 1, 1],
