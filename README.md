@@ -1,15 +1,12 @@
 # hexlet-battleship
-My first attempt to solve a task in a way of Functional Programming
+#### My first attempt to solve a task in a way of Functional Programming
 
-<p>
-    	Two functions (a task from Hexlet):
-    	* Calculate ships: **calcShipsCount**
-      * Validate a field: **isValidateField**
+##### Two functions (a task from Hexlet):
+* Calculate ships: **calcShipsCount**
+* Validate a field: **isValidateField**
 
+##### How to use:
 
-    <p>
-      How to use:
-    </p>
     <pre>
     calcShipsCount([
       [0, 1, 0, 0, 0, 0],
